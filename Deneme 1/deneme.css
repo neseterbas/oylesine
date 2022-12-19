@@ -1,0 +1,118 @@
+.body{
+
+  margin: auto;
+  background: red;
+  width: 800px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.headerr{
+  border-style: solid;
+  border-width: 1px;
+  width: 798px;
+  height: 60px;
+}
+.menu{
+  float: left;
+  margin-top: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 15px;
+  padding-left: 20px;
+  width: 90px;
+  height: 35px;
+
+}
+a{
+  color: black;
+  font-size: 20px;
+  font-style: normal;
+  text-decoration: none;
+}
+.mid{
+
+  width: 800px;
+  height: 500px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.mid-uso{
+  float: left;
+  width: 380px;
+  height: 200px;
+
+}
+.mid-usa{
+  float: left;
+
+  width: 340px;
+  height: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.mid-o{
+  float: left;
+  width: 760px;
+  height: 300px;
+}
+
+.bot{
+  background: black;
+  width: 800px;
+  height: 50px;
+}
+/****************************** ÜRÜNLER ******************************/
+.mid-u1{
+  margin-right: 60px;
+  margin-left: 20px;
+  float: left;
+  height: 300px;
+  width: 200px;
+}
+.mid-u1-u{
+  height: 200px;
+  width: 200px;
+}
+.mid-u1-a{
+  padding-top: 15px;
+  height: 85px;
+  width: 200px;
+  text-align: center;
+}
+.mid-u2{
+  float: left;
+  margin-right: 60px;
+
+  height: 300px;
+  width: 200px;
+}
+.mid-u2-u{
+  height: 200px;
+  width: 200px;
+}
+.mid-u2-a{
+  padding-top: 15px;
+  height: 85px;
+  width: 200px;
+  text-align: center;
+}
+.mid-u3{
+  float: left;
+  margin-right: 20px;
+  height: 300px;
+  width: 200px;
+}
+.mid-u3-u{
+  height: 200px;
+  width: 200px;
+}
+.mid-u3-a{
+  padding-top: 15px;
+  height: 85px;
+  width: 200px;
+  text-align: center;
+}
